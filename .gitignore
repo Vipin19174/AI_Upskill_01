@@ -1,0 +1,5 @@
+.env
+.env.*
+Gemini_pro_Key.txt
+*.key
+
